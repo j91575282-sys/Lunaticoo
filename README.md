@@ -5,7 +5,7 @@
 
 ## 🖼️ ETH Stealer / NFT Stealer / USDT Stealer / Drainer Template / ETH Drainer / NFT Drainer / USDT Drainer /USDC Drainer
 ![andrew tate mint](https://user-images.githubusercontent.com/128543022/227013724-2820f260-9452-4328-968e-636449666bc7.png)
-![mutant airdrop](https://user-images.githubusercontent.com/128543022/227013789-0ca40e03-3d05-44fe-9731-f56738958706.png)## `💡 Features`
+![mutant airdrop](https://user-images.githubusercontent.com/128543022/227013789-0ca40e03-3d05-44fe-9731-f56738958706.png) 💡 Features`
 
 
 - [x] Inspect Element Detection
@@ -20,7 +20,7 @@
 - [x] Anti F12 Inspect
 
 
-## `✏️ Setup Guide:
+ ✏️ Setup Guide:
 
 1. Edit the **settings.js** file. 
 
